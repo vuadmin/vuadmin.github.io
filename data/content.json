@@ -13,6 +13,13 @@
   },
   "posts": [
     {
+      "slug": "china-llm-comparison",
+      "date": "2026-09-14",
+      "title": "国产大模型横评：DeepSeek、千问、GLM、Kimi、豆包与 Seed，到底怎么选？",
+      "summary": "官方信息、第三方独立榜单、平台真实调用量三层数据分开摆：六家的版本、参数、上下文、开源许可与定价对比，各自短板，以及按场景选择的决策表。",
+      "tags": ["AI", "大模型", "横评"]
+    },
+    {
       "slug": "token-as-workload",
       "date": "2026-09-12",
       "title": "以后工作量的衡量，要按 Token 用量来定义",
